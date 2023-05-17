@@ -9,8 +9,9 @@ Install
 ---
 
 `npm install`
-`npm i @testing-library/user-event@12`
-`npm i @testing-library/jest-dom@5`
+
+`npm i -D @testing-library/react@release-12.x`
+
 
 
 
