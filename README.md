@@ -8,9 +8,9 @@ Emoji Search
 Install
 ---
 
-npm install
-npm i @testing-library/user-event@12 
-npm i @testing-library/jest-dom@5
+`npm install`
+`npm i @testing-library/user-event@12`
+`npm i @testing-library/jest-dom@5`
 
 
 
